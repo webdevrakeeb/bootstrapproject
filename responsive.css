@@ -1,0 +1,85 @@
+@media screen and (min-width:400px) and (max-width:767px) {
+  .full-body {
+    height: 70vh;
+  }
+
+  .overlay {
+    height: 70vh;
+  }
+  
+  .mobile-menu-icon {
+    display: block;
+    text-align: right;
+    font-size: 30px;
+    color: #fff;
+  }
+  
+  .menu-area ul {
+    display: none;
+  }
+  
+  .hero-cnt {
+    width: 320px;
+  }
+  
+  .content p {
+    width: 340px;
+  }
+  
+  .col-50 {
+    width: 100%;
+  }
+}
+
+
+@media screen and (max-width:399px) {
+  .col-50 {
+    width: 100%;
+  }
+
+  .full-body {
+    height: 70vh;
+  }
+
+  .overlay {
+    height: 70vh;
+  }
+
+  .hero-cnt {
+    width: 320px;
+  }
+  
+  .content p {
+    width: 340px;
+  }
+
+  .get-start {
+    padding-top: 25px;
+    padding-bottom: 75px;
+  }
+
+  .free-download {
+    padding-top: 50px;
+    padding-bottom: 90px;
+  }
+
+  .touch-heading {
+    width: 340px;
+  }
+
+  .touch-form {
+    max-width: 340px;
+  }
+
+  .get-touch {
+    padding-top: 45px;
+    padding-bottom: 50px;
+  }
+
+
+
+
+
+
+
+}
